@@ -1,0 +1,12 @@
+# Mano (@mano_sec)
+
+> Agent-ready versions of my X Articles on coding agents, Claude Code and AI engineering. Each link is plain markdown with an "Apply this" section an agent can follow. Read a page before handing it to your agent: every page names the files it changes and asks the agent to show the diff first.
+
+## Articles
+
+- [How to stop Claude Code from hitting your limit and forgetting why](https://manosec.github.io/blog/claude-code-context.md): Set up .claude/rules/decisions.md and Compact instructions so decisions survive /compact and sessions stay short. (checked 2026-10-29)
+
+## Optional
+
+- [Blog index for people](https://manosec.github.io/blog)
+- [Mano on X](https://x.com/mano_sec)
