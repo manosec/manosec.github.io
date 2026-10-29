@@ -1,7 +1,6 @@
 # Claude Code: stop hitting your limit and losing the "why" after /compact
 
-Agent version of an X Article by @mano_sec.
-Original article: https://x.com/mano_sec
+Agent version of an article by Mano. Full article for people: https://manosec.github.io/blog/claude-code-context
 Checked against the Claude Code docs on 29 Oct 2026.
 
 ## For the person handing this to an agent
