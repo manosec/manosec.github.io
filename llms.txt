@@ -8,4 +8,4 @@
 
 ## Optional
 
-- [Blog index for people](https://manosec.github.io/blog)
+- [Blog index for people](https://manosec.github.io/blog/)
