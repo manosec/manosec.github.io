@@ -4,6 +4,7 @@
 
 ## Articles
 
+- [83 pages, 11 coding agents, one formula: agent = model + harness](https://manosec.github.io/blog/coding-agent-harness.md): Read-only audit: your agent reads its own settings and reports what it runs without asking, what loads every session and what to tighten first. (checked 2026-10-30)
 - [How to stop Claude Code from hitting your limit and forgetting why](https://manosec.github.io/blog/claude-code-context.md): Set up .claude/rules/decisions.md and Compact instructions so decisions survive /compact and sessions stay short. (checked 2026-10-29)
 
 ## Optional
